@@ -1,6 +1,6 @@
 {
   "name": "@jesusgm/usewindowsize",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Custom hook to obtain the current window size in yout React apps",
   "main": "index.js",
   "scripts": {
